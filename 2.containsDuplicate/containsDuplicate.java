@@ -6,7 +6,7 @@ public class containsDuplicate {
 
         for(int num : nums){
             if(seenNumbers.contains(num)){
-                // How much time it is repeated
+                // How much time it is repeated 
                 System.out.println("The number " + num + " is repeated.");
                 return true;
             }
