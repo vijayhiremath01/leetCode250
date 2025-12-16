@@ -37,3 +37,4 @@ public class bruteForce {
         System.out.println(obj.isAnagram(s, t));
     }
 }
+// Sorting is not for large datas so its not an optimal solution O(nlogn)
