@@ -20,7 +20,13 @@ public class linked2 {
         n2.next = n3 ;
         n3.next = null ;
 
+        // Inserting the new node at first
+        Node newNode = new Node();
+        newNode.data = "Shaila";
+
         Node head = n1 ;
+        newNode.next = head ;
+        head = newNode;
 
         // Traverse the data
         Node temp = head ;
