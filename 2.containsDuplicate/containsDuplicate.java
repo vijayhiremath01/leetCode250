@@ -15,7 +15,7 @@ public class containsDuplicate {
         return false;
     }
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         containsDuplicate obj = new containsDuplicate();
         Scanner sc = new Scanner(System.in);
 
