@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class optimalSol {
 
     public static int[] twoSum(int[] nums, int target) {

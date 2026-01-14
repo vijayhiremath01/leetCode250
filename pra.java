@@ -1,7 +1,7 @@
 import java.util.* ;
 public class pra {
 
-    public static int[] plusOne(int[] array){
+        public static int[] plusOne(int[] array){
         String num = "";
 
         for(int d : array){

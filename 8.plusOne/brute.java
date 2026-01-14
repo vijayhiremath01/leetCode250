@@ -7,15 +7,12 @@ public class brute {
         for(int d : array){
              num += d ;
         }
-
         // again sting to number and then adding 1 so that n + 1
         long n = Long.parseLong(num);
-        n = n + 1 ;  // plus One the number means 123 + 1 ----> 124 example just
-
+        n = n + 1 ;  // plus One the number means 123 + 1 ----> 124 example     just
         // Number ----> String for convert the string to array
         String s = String.valueOf(n);
         int[] result = new int[s.length()];
-
         for(int i = 0 ; i < s.length() ; i++){
             result[i] = s.charAt(i) - '0';
         }
@@ -23,9 +20,7 @@ public class brute {
     }
     public static void main(String[] args) {
 
-
               Scanner sc = new Scanner(System.in);
-
               System.out.println("Enter the size of an array : ");
               int n = sc.nextInt();
               int[] array = new int[n] ;
