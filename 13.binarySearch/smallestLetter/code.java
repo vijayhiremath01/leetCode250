@@ -15,7 +15,7 @@ public class code {
         }
         return letters[start % letters.length] ;
     }
-        
+    
     public static void main(String[] args) {
         char[] letters = {'c','f','j'};
         char target = 'a' ;

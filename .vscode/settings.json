@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": [
+        "9.singleNumber",
+        "8.plusOne",
+        "7.MergeTwo",
+        "6.validPara",
+        "5.TwoSum",
+        "4.linearSearch",
+        "3.Anagram",
+        "2.containsDuplicate",
+        "13.binarySearch/smallestLetter",
+        "13.binarySearch/floorOfNum",
+        "13.binarySearch/ceilingOfNum",
+        "12.stairs",
+        "11.SumMissNum",
+        "10.reverseLinked",
+        "1.simple",
+        "14.FirstAndLast"
+    ]
+}

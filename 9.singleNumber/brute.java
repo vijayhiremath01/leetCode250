@@ -1,3 +1,4 @@
+// Link for Question is - https://leetcode.com/problems/single-number/description/
 import java.util.* ;
 
 public class brute {
@@ -13,6 +14,7 @@ public class brute {
             }
             seenNumbers.add(num);
         }
+        return 0;
 
     }
 
@@ -24,7 +26,7 @@ public class brute {
 
          int[] arrayNum = new int[size];
 
-         System.out.println('Enter the Elements of the array : ');
+         System.out.println("Enter the Elements of the array : ");
          for(int i = 0 ; i < size ; i++){
              arrayNum[i] = sc.nextInt();
          }

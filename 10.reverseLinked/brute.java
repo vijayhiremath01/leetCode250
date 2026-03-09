@@ -1,6 +1,7 @@
+// Link for Question is - https://leetcode.com/problems/reverse-linked-list/description/
 import java.util.ArrayList;
 
-public class Brute {
+public class brute {
 
     // 🔹 Linked List Node structure
     static class ListNode {

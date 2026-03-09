@@ -1,3 +1,4 @@
+// Link for Question is - https://leetcode.com/problems/plus-one/description/
 import java.util.* ;
 public class brute {
  // creating a method for plusOne
