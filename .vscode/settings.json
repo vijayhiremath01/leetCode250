@@ -8,6 +8,7 @@
         "4.linearSearch",
         "3.Anagram",
         "2.containsDuplicate",
+        "14.FirstAndLast",
         "13.binarySearch/smallestLetter",
         "13.binarySearch/floorOfNum",
         "13.binarySearch/ceilingOfNum",
@@ -15,6 +16,6 @@
         "11.SumMissNum",
         "10.reverseLinked",
         "1.simple",
-        "14.FirstAndLast"
+        "19.bubble"
     ]
 }
