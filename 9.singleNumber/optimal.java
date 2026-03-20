@@ -9,7 +9,6 @@ public class optimal {
            for(int num : arrayNums){
                result ^= num;
            }
-
            return result ;
      }
 
