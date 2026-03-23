@@ -26,5 +26,6 @@ public class optimal {
 
         int result = isSingle(arrayNums);
         System.out.println(result);
+        sc.close();
     }
 }
