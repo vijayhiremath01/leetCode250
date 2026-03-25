@@ -9,7 +9,7 @@ public class code {
             // if 0 then n - i - 1 
             for(int j = 1 ; j < nums.length - i  ; j++){
                 // if j is smaller than j - 1 then swap
-                if(nums[j] < nums[j  - 1]){
+                if(nums[j] < nums[j - 1]){
                     int temp = nums[j];
                     nums[j] = nums[j - 1];
                     nums[j-1] = temp ;
