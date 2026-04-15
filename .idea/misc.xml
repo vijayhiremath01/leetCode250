@@ -5,15 +5,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/10.reverseLinked/pom.xml" />
+        <option value="$PROJECT_DIR$/29.Strings/pom.xml" />
+        <option value="$PROJECT_DIR$/30.recursion/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/10.reverseLinked/pom.xml" />
+        <option value="$PROJECT_DIR$/29.Strings/pom.xml" />
+        <option value="$PROJECT_DIR$/30.recursion/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="java25" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

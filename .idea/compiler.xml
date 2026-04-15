@@ -10,6 +10,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="10.reverseLinked" target="25" />
+      <module name="29.Strings" target="25" />
+      <module name="30.recursion" target="25" />
     </bytecodeTargetLevel>
   </component>
 </project>
