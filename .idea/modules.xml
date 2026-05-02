@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/30.recursion/30.recursion.iml" filepath="$PROJECT_DIR$/30.recursion/30.recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/31.BitWise/31.BitWise.iml" filepath="$PROJECT_DIR$/31.BitWise/31.BitWise.iml" />
       <module fileurl="file://$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" filepath="$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33.linkedList/33.linkedList.iml" filepath="$PROJECT_DIR$/33.linkedList/33.linkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>

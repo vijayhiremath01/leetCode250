@@ -2,6 +2,7 @@ import java.util.* ;
 
 public class sqrtNumber {
 
+    // O(log(n)) is the time complexity !
     public static double sqrt(int n , int p){
          int start = 0 ;
          int end = n ;
