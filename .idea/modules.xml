@@ -6,9 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/31.BitWise/31.BitWise.iml" filepath="$PROJECT_DIR$/31.BitWise/31.BitWise.iml" />
       <module fileurl="file://$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" filepath="$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" />
       <module fileurl="file://$PROJECT_DIR$/33.linkedList/33.linkedList.iml" filepath="$PROJECT_DIR$/33.linkedList/33.linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.removeElement/34.removeElement.iml" filepath="$PROJECT_DIR$/34.removeElement/34.removeElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35.removeDup/35.removeDup.iml" filepath="$PROJECT_DIR$/35.removeDup/35.removeDup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36.strStr/36.strStr.iml" filepath="$PROJECT_DIR$/36.strStr/36.strStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/removeDup/removeDup.iml" filepath="$PROJECT_DIR$/removeDup/removeDup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/removeElement/removeElement.iml" filepath="$PROJECT_DIR$/removeElement/removeElement.iml" />
     </modules>
   </component>
 </project>
