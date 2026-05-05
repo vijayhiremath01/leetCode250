@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/34.removeElement/34.removeElement.iml" filepath="$PROJECT_DIR$/34.removeElement/34.removeElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/35.removeDup/35.removeDup.iml" filepath="$PROJECT_DIR$/35.removeDup/35.removeDup.iml" />
       <module fileurl="file://$PROJECT_DIR$/36.strStr/36.strStr.iml" filepath="$PROJECT_DIR$/36.strStr/36.strStr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" filepath="$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>
