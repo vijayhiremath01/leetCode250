@@ -22,9 +22,6 @@ public class Solution {
 
     public static void main(String[] args) {
         String str = "Hello World I am Vijay ";
-
         System.out.println(lengthOfLastWord(str));
-
     }
-
 }
