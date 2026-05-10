@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" filepath="$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" />
       <module fileurl="file://$PROJECT_DIR$/38.lastLength/38.lastLength.iml" filepath="$PROJECT_DIR$/38.lastLength/38.lastLength.iml" />
       <module fileurl="file://$PROJECT_DIR$/39.Trees/39.Trees.iml" filepath="$PROJECT_DIR$/39.Trees/39.Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40.palindrome/40.palindrome.iml" filepath="$PROJECT_DIR$/40.palindrome/40.palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>
