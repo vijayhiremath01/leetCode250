@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/39.Trees/39.Trees.iml" filepath="$PROJECT_DIR$/39.Trees/39.Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/40.palindrome/40.palindrome.iml" filepath="$PROJECT_DIR$/40.palindrome/40.palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/41.fibonacci/41.fibonacci.iml" filepath="$PROJECT_DIR$/41.fibonacci/41.fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" filepath="$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" filepath="$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" filepath="$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>
