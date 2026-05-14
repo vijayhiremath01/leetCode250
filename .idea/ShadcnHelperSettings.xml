@@ -2322,6 +2322,18 @@
         <option name="homepage" value="https://www.turbopills.com/ui/docs" />
         <option name="urlTemplate" value="https://ui.turbopills.com/r/{name}.json" />
       </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-paddle" />
+        <option name="name" value="Paddle" />
+        <option name="namespace" value="@paddle" />
+        <option name="baseUrl" value="https://developer.paddle.com/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Drop-in components for building checkouts, pricing pages, and subscription management screens using Paddle Billing." />
+        <option name="homepage" value="https://developer.paddle.com/" />
+        <option name="urlTemplate" value="https://developer.paddle.com/r/{name}.json" />
+      </RegistryConfigState>
     </registryConfigs>
   </component>
 </project>

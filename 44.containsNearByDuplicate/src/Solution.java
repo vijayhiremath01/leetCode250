@@ -1,5 +1,7 @@
 import java.util.* ;
 
+
+// Fixed Nothing
 public class Solution {
     public static boolean findNearByDuplicates(int[] nums , int k){
 
