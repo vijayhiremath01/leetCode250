@@ -1,5 +1,6 @@
 import java.util.* ;
 
+// program for factorial numbers calculation
 public class code4 {
     public static void main(String[] args) {
         int n = 5 ;
@@ -16,3 +17,5 @@ public class code4 {
         return n * fact(n-1);
     }
 }
+
+
