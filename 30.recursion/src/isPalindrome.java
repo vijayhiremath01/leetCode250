@@ -31,7 +31,7 @@ public class isPalindrome {
 
     public static void main(String[] args) {
 
-        int num = 121;
+        int num = 1210;
 
         if (isPal(num)) {
             System.out.println("Palindrome");

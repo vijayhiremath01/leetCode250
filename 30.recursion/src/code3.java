@@ -9,7 +9,6 @@ public class code3 {
             return ;
         }
 
-
         System.out.print( n + " ");
         // calling the function itSelf
         fun(n-1);
