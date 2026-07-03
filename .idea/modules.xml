@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" filepath="$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" filepath="$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" />
       <module fileurl="file://$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" filepath="$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45.susbsets/45.susbsets.iml" filepath="$PROJECT_DIR$/45.susbsets/45.susbsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46.subsets-II/46.subsets-II.iml" filepath="$PROJECT_DIR$/46.subsets-II/46.subsets-II.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>
