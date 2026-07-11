@@ -2754,6 +2754,30 @@
         <option name="homepage" value="https://uiable.com" />
         <option name="urlTemplate" value="https://uiable.com/r/{name}.json" />
       </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-vue-bits" />
+        <option name="name" value="Vue-bits" />
+        <option name="namespace" value="@vue-bits" />
+        <option name="baseUrl" value="https://vue-bits.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="An open source collection of high quality, animated, interactive &amp; fully customizable Vue components for building stunning, memorable user interfaces." />
+        <option name="homepage" value="https://vue-bits.dev" />
+        <option name="urlTemplate" value="https://vue-bits.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-svelte-bits" />
+        <option name="name" value="Svelte-bits" />
+        <option name="namespace" value="@svelte-bits" />
+        <option name="baseUrl" value="https://sveltebits.xyz/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="An open source collection of high quality, animated, interactive &amp; fully customizable Svelte components for building stunning, memorable user interfaces." />
+        <option name="homepage" value="https://sveltebits.xyz" />
+        <option name="urlTemplate" value="https://sveltebits.xyz/r/{name}.json" />
+      </RegistryConfigState>
     </registryConfigs>
   </component>
 </project>
