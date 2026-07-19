@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/47.patterns/47.patterns.iml" filepath="$PROJECT_DIR$/47.patterns/47.patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" filepath="$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" />
       <module fileurl="file://$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" filepath="$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50.addDigits/50.addDigits.iml" filepath="$PROJECT_DIR$/50.addDigits/50.addDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>

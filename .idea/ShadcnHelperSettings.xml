@@ -2862,6 +2862,30 @@
         <option name="homepage" value="https://ui.vllnt.com" />
         <option name="urlTemplate" value="https://ui.vllnt.com/r/{name}.json" />
       </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-aniui" />
+        <option name="name" value="Aniui" />
+        <option name="namespace" value="@aniui" />
+        <option name="baseUrl" value="https://aniui.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Beautiful, accessible React Native components (Uniwind or NativeWind) — copy, paste, own the code. 93 components plus pre-built screen blocks, installable with the shadcn CLI." />
+        <option name="homepage" value="https://aniui.dev" />
+        <option name="urlTemplate" value="https://aniui.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-grainly-icons" />
+        <option name="name" value="Grainly-icons" />
+        <option name="namespace" value="@grainly-icons" />
+        <option name="baseUrl" value="https://grainlyicons.abhii.space/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Animated grainy icons" />
+        <option name="homepage" value="https://grainlyicons.abhii.space" />
+        <option name="urlTemplate" value="https://grainlyicons.abhii.space/r/{name}.json" />
+      </RegistryConfigState>
     </registryConfigs>
   </component>
 </project>
