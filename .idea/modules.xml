@@ -23,6 +23,12 @@
       <module fileurl="file://$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" filepath="$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" />
       <module fileurl="file://$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" filepath="$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/50.addDigits/50.addDigits.iml" filepath="$PROJECT_DIR$/50.addDigits/50.addDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/51.ugly-number/51.ugly-number.iml" filepath="$PROJECT_DIR$/51.ugly-number/51.ugly-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52.powerOfThree/52.powerOfThree.iml" filepath="$PROJECT_DIR$/52.powerOfThree/52.powerOfThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53.revrseAString/53.revrseAString.iml" filepath="$PROJECT_DIR$/53.revrseAString/53.revrseAString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" filepath="$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" filepath="$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57.OOPS/57.OOPS.iml" filepath="$PROJECT_DIR$/57.OOPS/57.OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>
