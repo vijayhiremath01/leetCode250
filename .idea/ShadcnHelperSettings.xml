@@ -3210,6 +3210,198 @@
         <option name="homepage" value="https://whiskeyjack.net" />
         <option name="urlTemplate" value="https://whiskeyjack.net/r/{name}.json" />
       </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-23rd" />
+        <option name="name" value="23rd" />
+        <option name="namespace" value="@23rd" />
+        <option name="baseUrl" value="https://23rd.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Opinionated components for shippers." />
+        <option name="homepage" value="https://23rd.dev" />
+        <option name="urlTemplate" value="https://23rd.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-benday" />
+        <option name="name" value="Benday" />
+        <option name="namespace" value="@benday" />
+        <option name="baseUrl" value="https://benday.kacemmathlouthi.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Turn any logo into an animated Ben-Day dot field: a thinking indicator for AI and agent interfaces, baked from your own mark." />
+        <option name="homepage" value="https://benday.kacemmathlouthi.dev" />
+        <option name="urlTemplate" value="https://benday.kacemmathlouthi.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-blockforge" />
+        <option name="name" value="Blockforge" />
+        <option name="namespace" value="@blockforge" />
+        <option name="baseUrl" value="https://blockforge.terravidhal.me/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="170+ production-grade shadcn/ui blocks, forged to ship. Full source in TypeScript + Tailwind CSS, plus a page builder and starter pages. Copy, paste, ship." />
+        <option name="homepage" value="https://blockforge.terravidhal.me" />
+        <option name="urlTemplate" value="https://blockforge.terravidhal.me/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-flagcn" />
+        <option name="name" value="Flagcn" />
+        <option name="namespace" value="@flagcn" />
+        <option name="baseUrl" value="https://flagcn.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Accessible, source-owned flag components for shadcn/ui with 306 flags in SVG, PNG, WebP, and JPEG plus 4:3, 1:1, and original ratios." />
+        <option name="homepage" value="https://flagcn.dev" />
+        <option name="urlTemplate" value="https://flagcn.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-initium" />
+        <option name="name" value="Initium" />
+        <option name="namespace" value="@initium" />
+        <option name="baseUrl" value="https://app.initium.sh/r/styles/{style}" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Conversion-focused marketing blocks and landing page sections for shadcn/ui, with a visual style editor, agent skills, and the first block of every category free to install." />
+        <option name="homepage" value="https://initium.sh" />
+        <option name="urlTemplate" value="https://app.initium.sh/r/styles/{style}/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-interior" />
+        <option name="name" value="Interior" />
+        <option name="namespace" value="@interior" />
+        <option name="baseUrl" value="https://www.interior.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Copy-paste React micro-interactions: a headless hook plus a styled example in one self-contained file, with motion as the only dependency." />
+        <option name="homepage" value="https://www.interior.dev" />
+        <option name="urlTemplate" value="https://www.interior.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-motion-menu" />
+        <option name="name" value="Motion-menu" />
+        <option name="namespace" value="@motion-menu" />
+        <option name="baseUrl" value="https://motion-menu-two.vercel.app/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="596 motion/3D UI patterns — scroll-driven WebGL, shader passes, spring choreography — as ready HTML/CSS/JS. 26 free, or $149 once for the rest." />
+        <option name="homepage" value="https://motion-menu-two.vercel.app" />
+        <option name="urlTemplate" value="https://motion-menu-two.vercel.app/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-motiq" />
+        <option name="name" value="Motiq" />
+        <option name="namespace" value="@motiq" />
+        <option name="baseUrl" value="https://motiq.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Production-ready animated React and Next.js components — accessible, reduced-motion-safe and RSC-safe — installable as editable source with the shadcn CLI. Free and open source." />
+        <option name="homepage" value="https://motiq.dev" />
+        <option name="urlTemplate" value="https://motiq.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-openmirai" />
+        <option name="name" value="Openmirai" />
+        <option name="namespace" value="@openmirai" />
+        <option name="baseUrl" value="https://www.openmirai.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Open-source React and TypeScript tools from OpenMirai." />
+        <option name="homepage" value="https://www.openmirai.dev" />
+        <option name="urlTemplate" value="https://www.openmirai.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-preskok" />
+        <option name="name" value="Preskok" />
+        <option name="namespace" value="@preskok" />
+        <option name="baseUrl" value="https://ui-three-mu.vercel.app/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Accessible, production-ready React components built with React Aria Components and Tailwind CSS." />
+        <option name="homepage" value="https://ui-three-mu.vercel.app" />
+        <option name="urlTemplate" value="https://ui-three-mu.vercel.app/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-shoogle" />
+        <option name="name" value="Shoogle" />
+        <option name="namespace" value="@shoogle" />
+        <option name="baseUrl" value="https://shoogle.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Search shadcn blocks and components across community registries from the CLI" />
+        <option name="homepage" value="https://shoogle.dev" />
+        <option name="urlTemplate" value="https://shoogle.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-snap-cn" />
+        <option name="name" value="Snap-cn" />
+        <option name="namespace" value="@snap-cn" />
+        <option name="baseUrl" value="https://snapcn.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Remotion video components for React. Text reveals, karaoke captions, device mockups, logo stings and full scenes, installed with the CLI and owned as source." />
+        <option name="homepage" value="https://snapcn.dev" />
+        <option name="urlTemplate" value="https://snapcn.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-velobits" />
+        <option name="name" value="Velobits" />
+        <option name="namespace" value="@velobits" />
+        <option name="baseUrl" value="https://ui.velobits.dev/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="An open source collection of accessible, contrast-gated React components on a warm neutral palette and a two-tier glass material — the VeloBits design system, authored once and shipped both as an npm package and as this registry." />
+        <option name="homepage" value="https://ui.velobits.dev" />
+        <option name="urlTemplate" value="https://ui.velobits.dev/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-atroui" />
+        <option name="name" value="Atroui" />
+        <option name="namespace" value="@atroui" />
+        <option name="baseUrl" value="https://www.atroui.com/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Dark-first React / Next.js components and marketing blocks. Install with the shadcn CLI and own the source." />
+        <option name="homepage" value="https://www.atroui.com" />
+        <option name="urlTemplate" value="https://www.atroui.com/r/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-knock-codes" />
+        <option name="name" value="Knock-codes" />
+        <option name="namespace" value="@knock-codes" />
+        <option name="baseUrl" value="https://knock.codes/r/react" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Copy-paste, session-gated access blocks for React — PIN/Knock Code unlock screens, protected routes/layouts/modals, a headless useKnockCodes hook, and full-page templates." />
+        <option name="homepage" value="https://knock.codes" />
+        <option name="urlTemplate" value="https://knock.codes/r/react/{name}.json" />
+      </RegistryConfigState>
+      <RegistryConfigState>
+        <option name="id" value="central-remotionui" />
+        <option name="name" value="Remotionui" />
+        <option name="namespace" value="@remotionui" />
+        <option name="baseUrl" value="https://remotionui.com/r" />
+        <option name="stylePath" value="/{name}.json" />
+        <option name="type" value="community" />
+        <option name="enabled" value="false" />
+        <option name="description" value="Copy-paste motion components for Remotion video projects - 200 captions, charts, transitions, backgrounds, and full compositions." />
+        <option name="homepage" value="https://remotionui.com" />
+        <option name="urlTemplate" value="https://remotionui.com/r/{name}.json" />
+      </RegistryConfigState>
     </registryConfigs>
   </component>
 </project>

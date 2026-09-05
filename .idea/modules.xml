@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" filepath="$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" filepath="$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/57.OOPS/57.OOPS.iml" filepath="$PROJECT_DIR$/57.OOPS/57.OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58.Hashing/58.Hashing.iml" filepath="$PROJECT_DIR$/58.Hashing/58.Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
     </modules>
   </component>
