@@ -1,36 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/30.recursion/30.recursion.iml" filepath="$PROJECT_DIR$/30.recursion/30.recursion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/31.BitWise/31.BitWise.iml" filepath="$PROJECT_DIR$/31.BitWise/31.BitWise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" filepath="$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/33.linkedList/33.linkedList.iml" filepath="$PROJECT_DIR$/33.linkedList/33.linkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/34.removeElement/34.removeElement.iml" filepath="$PROJECT_DIR$/34.removeElement/34.removeElement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/35.removeDup/35.removeDup.iml" filepath="$PROJECT_DIR$/35.removeDup/35.removeDup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/36.strStr/36.strStr.iml" filepath="$PROJECT_DIR$/36.strStr/36.strStr.iml" />
-      <module fileurl="file://$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" filepath="$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" />
-      <module fileurl="file://$PROJECT_DIR$/38.lastLength/38.lastLength.iml" filepath="$PROJECT_DIR$/38.lastLength/38.lastLength.iml" />
-      <module fileurl="file://$PROJECT_DIR$/39.Trees/39.Trees.iml" filepath="$PROJECT_DIR$/39.Trees/39.Trees.iml" />
-      <module fileurl="file://$PROJECT_DIR$/40.palindrome/40.palindrome.iml" filepath="$PROJECT_DIR$/40.palindrome/40.palindrome.iml" />
-      <module fileurl="file://$PROJECT_DIR$/41.fibonacci/41.fibonacci.iml" filepath="$PROJECT_DIR$/41.fibonacci/41.fibonacci.iml" />
-      <module fileurl="file://$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" filepath="$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" filepath="$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" filepath="$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/45.susbsets/45.susbsets.iml" filepath="$PROJECT_DIR$/45.susbsets/45.susbsets.iml" />
-      <module fileurl="file://$PROJECT_DIR$/46.subsets-II/46.subsets-II.iml" filepath="$PROJECT_DIR$/46.subsets-II/46.subsets-II.iml" />
-      <module fileurl="file://$PROJECT_DIR$/47.patterns/47.patterns.iml" filepath="$PROJECT_DIR$/47.patterns/47.patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" filepath="$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" />
-      <module fileurl="file://$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" filepath="$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/50.addDigits/50.addDigits.iml" filepath="$PROJECT_DIR$/50.addDigits/50.addDigits.iml" />
-      <module fileurl="file://$PROJECT_DIR$/51.ugly-number/51.ugly-number.iml" filepath="$PROJECT_DIR$/51.ugly-number/51.ugly-number.iml" />
-      <module fileurl="file://$PROJECT_DIR$/52.powerOfThree/52.powerOfThree.iml" filepath="$PROJECT_DIR$/52.powerOfThree/52.powerOfThree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/53.revrseAString/53.revrseAString.iml" filepath="$PROJECT_DIR$/53.revrseAString/53.revrseAString.iml" />
-      <module fileurl="file://$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" filepath="$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" filepath="$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/57.OOPS/57.OOPS.iml" filepath="$PROJECT_DIR$/57.OOPS/57.OOPS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/58.Hashing/58.Hashing.iml" filepath="$PROJECT_DIR$/58.Hashing/58.Hashing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
-    </modules>
-  </component>
+	<component name="ProjectModuleManager">
+		<modules>
+			<module fileurl="file://$PROJECT_DIR$/30.recursion/30.recursion.iml"
+				filepath="$PROJECT_DIR$/30.recursion/30.recursion.iml" />
+			<module fileurl="file://$PROJECT_DIR$/31.BitWise/31.BitWise.iml"
+				filepath="$PROJECT_DIR$/31.BitWise/31.BitWise.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml"
+				filepath="$PROJECT_DIR$/32.mathsForDsa/32.mathsForDsa.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/33.linkedList/33.linkedList.iml"
+				filepath="$PROJECT_DIR$/33.linkedList/33.linkedList.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/34.removeElement/34.removeElement.iml"
+				filepath="$PROJECT_DIR$/34.removeElement/34.removeElement.iml" />
+			<module fileurl="file://$PROJECT_DIR$/35.removeDup/35.removeDup.iml"
+				filepath="$PROJECT_DIR$/35.removeDup/35.removeDup.iml" />
+			<module fileurl="file://$PROJECT_DIR$/36.strStr/36.strStr.iml"
+				filepath="$PROJECT_DIR$/36.strStr/36.strStr.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml"
+				filepath="$PROJECT_DIR$/37.searchInsert/37.searchInsert.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/38.lastLength/38.lastLength.iml"
+				filepath="$PROJECT_DIR$/38.lastLength/38.lastLength.iml" />
+			<module fileurl="file://$PROJECT_DIR$/39.Trees/39.Trees.iml"
+				filepath="$PROJECT_DIR$/39.Trees/39.Trees.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/40.palindrome/40.palindrome.iml"
+				filepath="$PROJECT_DIR$/40.palindrome/40.palindrome.iml" />
+			<module fileurl="file://$PROJECT_DIR$/41.fibonacci/41.fibonacci.iml"
+				filepath="$PROJECT_DIR$/41.fibonacci/41.fibonacci.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml"
+				filepath="$PROJECT_DIR$/42.perefectNumber/42.perefectNumber.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml"
+				filepath="$PROJECT_DIR$/43.findTheDifference/43.findTheDifference.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml"
+				filepath="$PROJECT_DIR$/44.containsNearByDuplicate/44.containsNearByDuplicate.iml" />
+			<module fileurl="file://$PROJECT_DIR$/45.susbsets/45.susbsets.iml"
+				filepath="$PROJECT_DIR$/45.susbsets/45.susbsets.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/46.subsets-II/46.subsets-II.iml"
+				filepath="$PROJECT_DIR$/46.subsets-II/46.subsets-II.iml" />
+			<module fileurl="file://$PROJECT_DIR$/47.patterns/47.patterns.iml"
+				filepath="$PROJECT_DIR$/47.patterns/47.patterns.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml"
+				filepath="$PROJECT_DIR$/48.bubbleSortRec/48.bubbleSortRec.iml" />
+			<module fileurl="file://$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml"
+				filepath="$PROJECT_DIR$/49.mergeSort/49.mergeSort.iml" />
+			<module fileurl="file://$PROJECT_DIR$/50.addDigits/50.addDigits.iml"
+				filepath="$PROJECT_DIR$/50.addDigits/50.addDigits.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/51.ugly-number/51.ugly-number.iml"
+				filepath="$PROJECT_DIR$/51.ugly-number/51.ugly-number.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/52.powerOfThree/52.powerOfThree.iml"
+				filepath="$PROJECT_DIR$/52.powerOfThree/52.powerOfThree.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/53.revrseAString/53.revrseAString.iml"
+				filepath="$PROJECT_DIR$/53.revrseAString/53.revrseAString.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml"
+				filepath="$PROJECT_DIR$/54.sqaureOfNum/54.sqaureOfNum.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml"
+				filepath="$PROJECT_DIR$/55.reverseNumber/55.reverseNumber.iml" />
+			<module fileurl="file://$PROJECT_DIR$/57.OOPS/57.OOPS.iml"
+				filepath="$PROJECT_DIR$/57.OOPS/57.OOPS.iml" />
+			<module fileurl="file://$PROJECT_DIR$/58.Hashing/58.Hashing.iml"
+				filepath="$PROJECT_DIR$/58.Hashing/58.Hashing.iml" />
+			<module
+				fileurl="file://$PROJECT_DIR$/59.medianOfArray/59.medianOfArray.iml"
+				filepath="$PROJECT_DIR$/59.medianOfArray/59.medianOfArray.iml" />
+			<module fileurl="file://$PROJECT_DIR$/leetCode.iml"
+				filepath="$PROJECT_DIR$/leetCode.iml" />
+		</modules>
+	</component>
 </project>
